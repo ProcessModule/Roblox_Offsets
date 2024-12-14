@@ -1,0 +1,50 @@
+{
+  "Offsets": {
+    "General": {
+      "ChildSize": "0x8",
+      "Name": "0x108",
+      "Children": "0x70",
+      "Parent": "0x50",
+      "DisplayName": "0x108",
+      "LocalPlayer": "0x118",
+      "ModelInstance": "0x2a0",
+      "Primitive": "0x160",
+      "BasePartPosition": "0x140",
+      "ClientDimensions": "0x740",
+      "ViewMatrix": "0x4d0"
+    },
+    "Descriptors": {
+      "ClassDescriptor": "0x18"
+    },
+    "Health": {
+      "Health": "0x18c",
+      "MaxHealth": "0x1ac"
+    },
+    "TeamAndGame": {
+      "Team": "0x1d8",
+      "GameId": "0x168"
+    },
+    "Physics": {
+      "AssemblyLinearVelocity": "0x14c"
+    },
+    "Camera": {
+      "CameraPosition": "0xfc",
+      "CurrentCamera": "0x3d8",
+      "CameraRotation": "0xd8"
+    },
+    "PlayerAttributes": {
+      "JumpPower": "0x1a8",
+      "HipHeight": "0x198"
+    },
+    "DataModel": {
+      "FakeDataModelToRealDataModel": "0x1a8"
+    },
+    "Input": {
+      "MousePosition": "0xe4",
+      "InputObject": "0xf8"
+    },
+    "Ignore": {
+      "TextureId": "0x298",
+    }
+  }
+}
